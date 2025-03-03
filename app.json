@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~k8BgVaxL#6OT4YZANU-jUdMQV6twiBzVXMJqpGSZ2CGqX7tRES0w"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "Cyrus-MD-V5"
     }, 
       
     "PREFIX": {
@@ -80,13 +80,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "Cyrus"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "260771798128"
 
     }, 
 
@@ -107,7 +107,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "true"
+      "value": "false"
     }, 
 
  "AUTO_STATUS_REPLY": {
@@ -126,13 +126,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "Cyrus"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "260771798128"
 
     }, 
 
@@ -196,7 +196,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "👣,🛀,💯,👾,🫨,🕷️,🤎,🖤,🤍"
     }, 
     
     "ANTI_DEL_PATH": {
